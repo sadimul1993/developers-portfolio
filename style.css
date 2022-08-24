@@ -10,6 +10,9 @@ h1 {
 h2{
     font-size: 40px;
 }
+.flexible-container P{
+    font-weight: 200;
+}
 .orange-colour {
     color: orange;
 }
@@ -25,7 +28,7 @@ h2{
 }
 
 .half-width img {
-    width: 80%;
+    width: 90%;
 }
 
 .link-button{
@@ -40,6 +43,7 @@ h2{
 .top-banner{
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
+    padding-left: 60px;
 }
 
 .dream-big{
